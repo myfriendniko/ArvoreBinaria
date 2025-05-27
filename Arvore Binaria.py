@@ -36,8 +36,7 @@ class ArvoreBinaria:
             print(no.valor, end=' ')
             self._em_ordem_recursivo(no.direita)
 
-# Exemplo de uso
-if __name__ == "__main__":
+if __nome__ == "__main__":
     arvore = ArvoreBinaria()
     valores = [10, 5, 15, 3, 7, 12, 18]
 
